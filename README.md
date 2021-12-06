@@ -7,4 +7,4 @@
 - 📫 How to reach me: https://www.facebook.com/annantogourob83/
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: 😂😂
-<img src="https://camo.githubusercontent.com/154149f3f539527b40cd519d7c71240042123ba01a1b8e4a0cb5adf57411545c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d637365746f776869642673686f775f69636f6e733d74727565">
+<img src="https://github-readme-stats.vercel.app/api?username=Irfanbd&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
