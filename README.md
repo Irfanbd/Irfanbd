@@ -17,7 +17,7 @@ Skills: Java / Java/ JavaScript/ HTML / CSS/PHP/Laravel
 
 - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irfanbd)](https://github.com/anuraghazra/github-readme-stats)
 - [![Top Langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfanbd&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-- [![Irfan's github activity graph](https://activity-graph.herokuapp.com/graph?username=csetowhid&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- [![Irfan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Irfanbd&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 -![Profile views](https://gpvc.arturio.dev/Irfanbd)
 
