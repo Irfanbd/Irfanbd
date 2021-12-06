@@ -17,7 +17,7 @@ Skills: Java / Java/ JavaScript/ HTML / CSS/PHP/Laravel
 
  ![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Irfanbd)
 ![Top Langs used](https://github-readme-stats.vercel.app/api/top-langs/?username=Irfanbd&langs_count=20)
- ![Irfan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Irfanbd&theme=dracula)]
+ ![Irfan's github activity graph](https://activity-graph.herokuapp.com/graph?username=Irfanbd&theme=dracula)
 ![Profile views](https://gpvc.arturio.dev/Irfanbd)
 
 
