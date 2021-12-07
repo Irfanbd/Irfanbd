@@ -26,21 +26,5 @@ Skills: Java/ JavaScript/ HTML / CSS/PHP/Laravel
 
 ![Profile views](https://gpvc.arturio.dev/Irfanbd)  
 
-name: Waka Readme
-
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs at 12am UTC
-    - cron: "0 0 * * *"
-
-jobs:
-  update-readme:
-    name: Update this repo's README
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ 61fa872a-6204-4ffe-aeee-0504f9b5ef68 }}
 
 
