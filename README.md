@@ -25,7 +25,7 @@ Skills: Java/ JavaScript/ HTML / CSS/PHP/Laravel
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Irfanbd)  
 
 ![Profile views](https://gpvc.arturio.dev/Irfanbd)  
-<!--START_SECTION:waka-->
+
 name: Waka Readme
 
 on:
@@ -42,5 +42,5 @@ jobs:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ 61fa872a-6204-4ffe-aeee-0504f9b5ef68 }}
-<!--END_SECTION:waka-->
+
 
