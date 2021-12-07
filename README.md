@@ -25,5 +25,5 @@ Skills: Java/ JavaScript/ HTML / CSS/PHP/Laravel
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Irfanbd)  
 
 ![Profile views](https://gpvc.arturio.dev/Irfanbd)  
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api_key=61fa872a-6204-4ffe-aeee-0504f9b5ef68/wakatime?username=Irfanbd)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/irfanbd)](https://github.com/anuraghazra/github-readme-stats)
 
