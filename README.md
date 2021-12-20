@@ -1,4 +1,4 @@
-### Hi there 👋, Hi!! I'm Ahmed Irfan
+### Hi there 👋,  I'm Ahmed Irfan
 #### I am a Programmer & Web Developer.
 I have completed my graduation in Computer Science and Engineering(CSE) from North Western University.
 
